@@ -1,0 +1,47 @@
+body{
+background-color: linen;
+align-content: center;
+align-items: center;
+justify-content: center;
+display: flex;
+padding:64px;
+margin-top: 64px;
+
+}
+
+.container{
+    border: 2px solid black;
+    height: 600px;
+    width: 800px;
+    background-color: white;
+    border-radius: 6px;
+    padding: 12px;
+}
+
+
+.container h2{
+    text-align: center;
+}
+
+.container button{
+    background-color: lightblue;
+    height: 36px;
+    border-radius: 4px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    margin-top: 40px;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center button:hover{
+    cursor: pointer;
+    color: rgb(96, 14, 212);
+    background-color: yellow;
+}
