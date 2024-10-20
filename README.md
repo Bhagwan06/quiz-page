@@ -1,6 +1,6 @@
-# Simple Quiz App
+# Simple Quiz Page
 
-This is a simple quiz app built with HTML and CSS that allows users to answer a few basic quiz questions. 
+This simple quiz app built with HTML and CSS allows users to answer a few basic quiz questions. 
 It is a responsive and beginner-friendly project, suitable for practicing HTML forms and CSS layout techniques.
 
 ## Features
